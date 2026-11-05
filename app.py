@@ -8,7 +8,6 @@ import random
 from rdkit import Chem
 from rdkit.Chem import (
     Draw,
-    rdMolDraw2D,
     AllChem,
     Descriptors,
     Crippen,
